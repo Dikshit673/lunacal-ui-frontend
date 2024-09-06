@@ -1,0 +1,26 @@
+/* .logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+} */
+
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap');
+
+.text-font-family1 {
+  font-family: "Plus Jakarta Sans", sans-serif;
+}
+
+.icon-gradient {
+  background: linear-gradient(45deg, #a3adba, #4a4e54);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
